@@ -4,5 +4,6 @@ public class Emp {
         System.out.println("Emp dev");
         System.out.println("Emp in master");
         System.out.println("Emp in brh");
+        System.out.println("Emp in brh new");
     }
 }
